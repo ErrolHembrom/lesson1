@@ -3,3 +3,10 @@ h1{
     border: 1px solid green;
     background-color: aqua;
 }
+
+p{
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    padding: 10px;
+}
